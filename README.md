@@ -1,39 +1,63 @@
-# LeetCode-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0001-two-sum/) | Easy |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
-| [0053-maximum-subarray](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
-| [0217-contains-duplicate](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
-| [0643-maximum-average-subarray-i](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0001-two-sum/) | Easy |
-| [0217-contains-duplicate](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0053-maximum-subarray](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0053-maximum-subarray](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0217-contains-duplicate](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0643-maximum-average-subarray-i](https://github.com/palakvarshneyyy/LeetCode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
-<!---LeetCode Topics End-->
+📚 4-Week DSA & OOPS Summer Assignment
+
+Welcome to my Summer Assignment repository. This repository contains my solutions to Data Structures & Algorithms (DSA) and Object-Oriented Programming (OOPS) problems assigned as part of the 4-week summer training program.
+
+🎯 Assignment Objectives
+Improve problem-solving skills
+Strengthen DSA concepts
+Practice Object-Oriented Programming
+Develop consistent coding habits
+Learn Git & GitHub workflow
+
+🛠️ Technologies Used
+Java
+LeetCode
+Git & GitHub
+VS Code
+
+📂 Repository Structure
+Summer_Assignment_2401921530168
+│
+├── Week_1
+│   ├── Day_1
+│   ├── Day_2
+│   ├── Day_3
+│   ├── Day_4
+│   ├── Day_5
+│   └── OOPS
+│
+├── Week_2
+│   ├── Day_1
+│   ├── Day_2
+│   ├── Day_3
+│   ├── Day_4
+│   ├── Day_5
+│   └── OOPS
+│
+├── Week_3
+│   ├── Day_1
+│   ├── Day_2
+│   ├── Day_3
+│   ├── Day_4
+│   ├── Day_5
+│   └── OOPS
+│
+└── Week_4
+    ├── Day_1
+    ├── Day_2
+    ├── Day_3
+    ├── Day_4
+    ├── Day_5
+    └── OOPS
+    
+📝 Submission Guidelines
+Solve 3 LeetCode problems daily.
+Upload solutions to the corresponding Day folder.
+Solve 1 OOPS problem every week.
+Upload the OOPS solution to the week's OOPS folder.
+Commit and push code regularly to maintain consistency.
+
+📌 Notes
+Solutions are implemented in Java.
+Focus is given to clean code, optimal approaches, and proper documentation.
+Repository is updated regularly as per the assignment schedule.
